@@ -7,5 +7,8 @@ function takeDailySnapshot() {
   
   rngPaste.offset(0, intNextCol+1).setValues(rngCopy.getValues());
   
+  // I'd like to add some comment text
+  
+  
   
 }
